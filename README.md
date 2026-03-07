@@ -1,4 +1,4 @@
-# Robotics Portfolio
+# personal_website
 
 A premium full-stack personal portfolio for a robotics engineering student, inspired by Stripe, Linear, and Vercel. Built with **Next.js 14**, **React**, **TypeScript**, and **Tailwind CSS**, with a clean modern UI, Geist typography, 8px spacing system, and subtle CSS animations.
 
